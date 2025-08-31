@@ -8,6 +8,8 @@
  
 No more dragging windows around every time you open Discord, OBS, or your favorite game — just click and go.
 
+**NOTE this does not work on games or programs that set the monitor position**
+
 --- 
 ## 🖼 Screenshot
 ![LOP Screenshot](LOPScreenshot.png)
