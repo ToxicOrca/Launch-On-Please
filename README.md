@@ -35,9 +35,8 @@ Download the latest release from the [Releases page](../../releases) and run the
 Alternatively, build it yourself:
 
 ```bash
-git clone https://github.com/YourUsername/launch-on-please.git
+git clone https://github.com/ToxicOrca/Launch-On-Please.git
 cd launch-on-please
-pip install -r requirements.txt
 pyinstaller --onefile --windowed --icon=LOP.ico launch_on_please.py
 ```
 
